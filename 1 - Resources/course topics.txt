@@ -1,0 +1,20 @@
+1 - Resources
+2 - Course Introduction
+3 - Databases Introduction and Data Definition and Datatypes
+4 - Exercise - Data Definition and Datatypes
+5 - Basic CRUD
+6 - Exercise - Basic CRUD
+7 - Built-in Functions
+8 - Exercise - Built-in Functions
+9 - Data Aggregation
+10 - Exercise - Data Aggregation
+11 - Table Relations
+12 - Exercise - Table Relations
+13 - Subqueries and JOINs
+14 - Exercise - Subqueries and JOINs
+15 - Database Programmability and Transactions
+16 - Exercise - Functions and Procedures
+17 - Exam Preparation_1
+18 - Exam Preparation_2
+19 - Regular Exam
+20 - Retake Exam
